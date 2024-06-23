@@ -9,7 +9,7 @@
 source:         _app
 destination:    _site
 timezone:       America/Los_Angeles
-permalink:      /:title.html
+permalink:      /://iamjackreed.github.io/True-Capital/
 markdown:       kramdown
 highlighter:    rouge
 include:        ["_pages"]

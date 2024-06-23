@@ -11,7 +11,7 @@ Here is the updated `_config.yml` file with the necessary changes:
 source:         _app
 destination:    _site
 timezone:       America/Los_Angeles
-permalink:      /iamjackreed.github.io/True-Capital
+permalink:      /:title.html
 markdown:       kramdown
 highlighter:    rouge
 include:        ["_pages"]
@@ -116,7 +116,7 @@ flatten_base:   false
 # CSS path used in templates
 #
 # Default:      /assets
-assets:         /assets
+assets:         /True-Capital/assets
 
 # Feed URL
 #

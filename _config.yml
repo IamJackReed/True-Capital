@@ -1,4 +1,6 @@
-#
+Here is the updated `_config.yml` file with the necessary changes:
+
+```yaml
 # More configuration examples at:
 # https://jekyllrb.com/docs/configuration/
 #
@@ -142,6 +144,7 @@ url:            https://iamjackreed.github.io
 #
 # Default:      https://d349cztnlupsuf.cloudfront.net
 file:           https://iamjackreed.github.io/True-Capital/files
+
 # Download files URL
 #
 # Download files URL are used in posts, ie.
@@ -224,3 +227,4 @@ credits:        true
 #
 # Default:      "User-agent: *"
 robots:         "User-agent: *"
+```

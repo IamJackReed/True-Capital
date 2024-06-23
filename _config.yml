@@ -57,7 +57,7 @@ plugins:
 # Development mode
 #
 # Development mode is disabled on production build by default, we've enabled it
-# in `_config.dev.yml` for local development, so most of the time you don't
+# in `_config.dev.yml` for the local development, so most of the time you don't
 # need to change it.
 #
 # Default:      false

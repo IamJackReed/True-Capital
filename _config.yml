@@ -98,7 +98,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /True-Capital
+baseurl:        /true-capital
 
 # Flatten base
 #
@@ -113,7 +113,7 @@ flatten_base:   false
 # CSS path used in templates
 #
 # Default:      /assets
-assets:         /True-Capital/assets
+assets:         /true-capital/assets
 
 # Feed URL
 #
@@ -140,7 +140,7 @@ url:            https://iamjackreed.github.io
 # grabs the first image of your post as post featured image.
 #
 # Default:      https://d349cztnlupsuf.cloudfront.net
-file:           https://iamjackreed.github.io/True-Capital/files
+file:           https://iamjackreed.github.io/true-capital/files
 
 # Download files URL
 #
@@ -151,7 +151,7 @@ file:           https://iamjackreed.github.io/True-Capital/files
 # download files. That's it. Remove or ignore this if you don't need it.
 #
 # Default:      https://d1bmx7s6749k4k.cloudfront.net
-download:       https://iamjackreed.github.io/True-Capital/downloads
+download:       https://iamjackreed.github.io/true-capital/downloads
 
 # Colors
 #
